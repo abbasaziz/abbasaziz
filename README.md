@@ -1,4 +1,4 @@
-An Electrical Engineer who has fresh understanding and experience in Embedded Systems, IoT, Technical Writing and has a knack for Programming. Trying to develop skills for Web development, Data engineering, AI and machine learning. 
+An Electrical Engineer who has fresh understanding and experience in Programming and has a knack for Embedded Systems, IoT, Technical Writing. Currently working in full-stack web development and data. 
 
 <!---
 abbasaziz/abbasaziz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
